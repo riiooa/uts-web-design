@@ -1,0 +1,176 @@
+@font-face {
+    font-family: Kepler;
+    src: url(Kepler/KeplerStd-BoldScnSubh.otf);
+}
+/*Majalah*/
+#header {
+    color: #fff;
+    background-color: rgb(24, 24, 182);
+    padding: 15px;
+    text-align: center;
+    font-family: Kepler;
+    font-size: 45px;
+
+}
+/*Garis*/
+.hr {
+    margin: 16px 0px 4px 0px;
+}
+/*Menu*/
+nav .menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    border: 1px solid #fff;
+    display: flex;
+    text-decoration: underline;
+    justify-content: space-between;
+    text-align: center
+}/*SSTI*/
+.isi {
+    background-color: #0D6EFD;
+    color: #fff;
+    padding: 5%;
+    border-radius: 1%;
+}
+.isi h1 {
+    font-family: Kepler;
+    font-style: italic;
+    font-size: 60px;
+}
+.isi p {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 100;
+}
+.isi h5 {
+    text-decoration: underline;
+    font-family: verdana;
+    font-weight: bolder;
+    font-size: 16px;
+}
+/*sains*/
+ .sains {
+    color: blue;
+    font-weight: bolder;
+}
+h2 {
+    font-family: Kepler;
+}
+.tanggal {
+    color: gray;
+}
+.garis {
+    text-decoration: underline;
+    color: blue;
+}
+/*desain*/
+.desain {
+    color: green;
+    font-weight: bolder;
+}
+/*Tentang*/
+.rig {
+    color: #fff;
+    float: right;
+    
+}
+.right {
+    float: right;
+    margin-top: 14%;
+    width: 260px;
+    box-shadow: #fff;
+}
+.bodi {
+    background-color: rgb(241, 241, 241);
+    width: 258px;
+    
+}
+.rit {
+    font-style: italic;
+    margin-bottom: 2%;
+    color: black;
+}
+.rih {
+    border-radius: 1%;
+}
+.tek {
+    height: 150px;
+    width: 240px;
+    color: black;
+}
+/*Berita*/
+.berita {
+    font-family: Kepler;
+    font-style: italic; 
+    margin-top: 2%;  
+}
+.grs {
+    width: 65%;
+}
+
+.contoh {
+    font-family: Kepler;
+}
+.nama {
+    color: blue;
+    text-decoration: underline;
+}
+.parag {
+    width: 50%;
+    float: left;
+}
+.parag {
+    width: 65%;
+    margin: 0px 0px 0px 0px;
+}
+.paragr {
+    width: 65%;
+    
+}
+/*arsip*/
+.cont {
+    float: right;
+    margin-right: 110px;
+    margin-bottom:
+}
+.arsip {
+    font-family: Kepler;
+    font-style: italic;
+    margin-left: 30px;
+}
+.arsip1 {
+    text-decoration: underline;
+    color: blue;
+    list-style-type: none;
+    margin-right: 14px;
+}
+/*sosial*/
+.conta {
+    float: right;
+    margin-right: 93px;
+    margin-bottom: 20px;
+}
+.sosial {
+    font-family: Kepler;
+    font-style: italic;
+    margin-left: 30px;
+}
+.media {
+    text-decoration: underline;
+    color: blue;
+    list-style-type: none;
+    margin-right: 14px;
+}
+.button {
+    border: ;
+    border-radius: 30px;
+    color: blue;
+    border-color: blue;
+    margin-top: 70px;
+}
+.buton {
+    border-radius: 30px;
+    color: grey;
+    border-color: grey;
+}
